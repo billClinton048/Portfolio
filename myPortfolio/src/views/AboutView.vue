@@ -41,7 +41,7 @@
       </div>
       <div class="col-span-2 border-b-2 border-orange-600 shadow-2xl p-5 ">
         <h1>123web</h1>
-        <h3>Full stack Developer</h3>
+        <h3 class="py-2 " >Full stack Developer</h3>
         <p class="text-justify">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero vitae
           fugit facere voluptas eligendi maiores eum doloremque adipisci eos
@@ -54,7 +54,7 @@
       </div>
       <div class="col-span-2 border-b-2 border-orange-600 shadow-2xl p-5">
         <h1>123web</h1>
-        <h3>Full stack Developer</h3>
+        <h3 class="py-2">Full stack Developer</h3>
         <p class="text- justify">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero vitae
           fugit facere voluptas eligendi maiores eum doloremque adipisci eos
