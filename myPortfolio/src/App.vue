@@ -21,7 +21,7 @@
   <div v-else>
     <AboutView />
   </div>
-  <RouterViewview />
+  <RouterViewv/>
 </template>
 
 <script>
